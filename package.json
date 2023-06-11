@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/HW10",
+  "homepage": "https://Ilona1009.github.io/HW10",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /HW10/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ilona1009/HW10.git"
+    "url": "git+https://Ilona1009/HW10.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
